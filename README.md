@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/2d/31/31/2d3131e5df7138931329c44e12485d5b.gif)
+![MasterHead]([https://i.pinimg.com/originals/2d/31/31/2d3131e5df7138931329c44e12485d5b.gif](https://camo.githubusercontent.com/e78842b875658df7c005511db528b08b322a99e46ef726af54f852425bbef529/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f4b49506e4169614d437773386e4f73452f67697068792e676966))
 <h1 align="center">Hi 👋, I'm Serdar Dayıcık</h1>
 <h3 align="center">A passionate frontend developer from turkey</h3>
 
