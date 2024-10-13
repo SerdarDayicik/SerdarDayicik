@@ -1,4 +1,4 @@
-![MasterHead](https://c.tenor.com/pPKOYQpTO8AAAAAd/tenor.gif)
+![MasterHead]([https://c.tenor.com/pPKOYQpTO8AAAAAd/tenor.gif](https://c.tenor.com/pPKOYQpTO8AAAAAd/tenor.gif))
 <h1 align="center">Hi 👋, I'm Serdar Dayıcık</h1>
 <h3 align="center">A passionate frontend developer from turkey</h3>
 
