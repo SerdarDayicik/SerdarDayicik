@@ -1,4 +1,4 @@
-![tenor](https://tenor.com/tr/view/bepalzo-monkey-computer-typing-stress-gif-16909901)
+![tenor]([https://tenor.com/tr/view/bepalzo-monkey-computer-typing-stress-gif-16909901](https://c.tenor.com/qc8QHhSMfngAAAAd/tenor.gif))
 <h1 align="center">Hi 👋, I'm Serdar Dayıcık</h1>
 <h3 align="center">A passionate frontend developer from turkey</h3>
 
