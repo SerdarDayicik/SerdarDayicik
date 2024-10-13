@@ -1,4 +1,4 @@
-![MasterHead]([https://png.pngtree.com/thumb_back/fw800/background/20240726/pngtree-3d-panoramic-view-of-forest-with-morning-fog-aerial-spaces-image_16116122.jpg](https://www.pinterest.com/pin/92253492351680195/))
+![MasterHead]([[https://png.pngtree.com/thumb_back/fw800/background/20240726/pngtree-3d-panoramic-view-of-forest-with-morning-fog-aerial-spaces-image_16116122.jpg](https://www.pinterest.com/pin/92253492351680195/)](https://i.pinimg.com/originals/2d/31/31/2d3131e5df7138931329c44e12485d5b.gif))
 <h1 align="center">Hi 👋, I'm Serdar Dayıcık</h1>
 <h3 align="center">A passionate frontend developer from turkey</h3>
 
