@@ -1,4 +1,4 @@
-![MasterHead](https://png.pngtree.com/thumb_back/fw800/background/20240726/pngtree-3d-panoramic-view-of-forest-with-morning-fog-aerial-spaces-image_16116122.jpg)
+![MasterHead](https://c.tenor.com/pPKOYQpTO8AAAAAd/tenor.gif)
 <h1 align="center">Hi 👋, I'm Serdar Dayıcık</h1>
 <h3 align="center">A passionate frontend developer from turkey</h3>
 
