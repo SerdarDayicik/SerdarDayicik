@@ -1,6 +1,6 @@
 ![MasterHead](https://png.pngtree.com/thumb_back/fw800/background/20240726/pngtree-3d-panoramic-view-of-forest-with-morning-fog-aerial-spaces-image_16116122.jpg)
 <h1 align="center">Hi 👋, I'm Serdar Dayıcık</h1>
-<h3 align="center">A passionate frontend developer from turkey</h3>
+<h3 align="center">I only enjoy coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serdardayicik&label=Profile%20views&color=0e75b6&style=flat" alt="serdardayicik" /> </p>
 
@@ -23,5 +23,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serdardayicik&show_icons=true&locale=en&layout=compact" alt="serdardayicik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serdardayicik&" alt="serdardayicik" /></p>
 
