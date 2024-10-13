@@ -1,4 +1,4 @@
-![giphy](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2E5bHNiM2I4ZGtpanV1OW0wazkzeG5wbm80YTR6bjBsNmljYWhjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/giphy.gif)
+![giphy](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2E5bHNiM2I4ZGtpanV1OW0wazkzeG5wbm80YTR6bjBsNmljYWhjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/giphy-downsized.gif)
 <h1 align="center">Hi 👋, I'm Serdar Dayıcık</h1>
 <h3 align="center">A passionate frontend developer from turkey</h3>
 
